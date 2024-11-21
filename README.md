@@ -6,5 +6,5 @@
 
    3.  Besure to install ultralytics
 
-   4.  For other information watch the video
+   4.  For other information watch the video: https://www.youtube.com/watch?app=desktop&v=ZDlO0BdY8vo
 
